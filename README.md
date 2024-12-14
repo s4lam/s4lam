@@ -1,4 +1,4 @@
-# Hello, I'm Salam
+# Hello, I'm Patrik
 <a href="https://www.linkedin.com/in/patrik-feraru-73104028b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
