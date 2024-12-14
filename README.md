@@ -12,7 +12,7 @@ With a strong foundation in cybersecurity developed through my academic journey 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|                                               |                            |
+|                im not sure yet...                               |                            |
 |                                               |                            |
 |                                               |                            |
 |                                               |                            |
