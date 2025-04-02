@@ -6,7 +6,7 @@ I am a Cyber Security student with a profound interest in technology and Hacking
 
 ## Objective
 
-With a strong foundation in cybersecurity developed through my academic journey at Staffordshire University London, I am passionate about protecting systems and data from emerging threats. My hands-on experience in ethical hacking, cyber operations, and security automation has driven my commitment to continuous learning and contributing to the field.
+With a strong foundation in cybersecurity developed through my academic journey, I am passionate about protecting systems and data from emerging threats. My hands-on experience in ethical hacking, cyber operations, and security automation has driven my commitment to continuous learning and contributing to the field.
 
 ## Skills
 
