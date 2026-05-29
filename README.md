@@ -112,12 +112,18 @@ Certifications are not listed publicly yet, so this section will stay minimal un
 
 ---
 
-## GitHub Stats
+## Profile Snapshot
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=s4lam&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4lam&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</div>
+<table>
+  <tr>
+    <td><strong>Primary Focus</strong><br>Cybersecurity fundamentals, web app security, and ethical hacking labs</td>
+    <td><strong>Build Style</strong><br>Secure full-stack apps, automation, clean documentation, and practical workflows</td>
+  </tr>
+  <tr>
+    <td><strong>Core Stack</strong><br>Python · TypeScript · Bash · PowerShell · PostgreSQL</td>
+    <td><strong>Security Practice</strong><br>Recon · packet analysis · RBAC · audit logging · lab-based testing</td>
+  </tr>
+</table>
 
 ---
 
