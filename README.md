@@ -1,38 +1,128 @@
-# Hello, I'm s4lam
+<div align="center">
 
+# Hi, I'm s4lam 👋
 
+### Cybersecurity Student • Ethical Hacking Learner • Security-Focused Builder
 
-I am a Cyber Security student with a profound interest in technology and Hacking.
-
-## Objective
-
-With a strong foundation in cybersecurity developed through my academic journey, I am passionate about protecting systems and data from emerging threats. My hands-on experience in ethical hacking, cyber operations, and security automation has driven my commitment to continuous learning and contributing to the field.
-
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|                im not sure yet...                               |                            |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
-
-## Tools
-
-Operating Systems
-<div> <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> </div>
-Networking Tools
-<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Netcat-3C3C3C?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?&style=for-the-badge&logo=BurpSuite&logoColor=white" /> </div>
-Programming and Scripting
-<div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" /> <img src="https://img.shields.io/badge/-Powershell-5391FE?&style=for-the-badge&logo=Powershell&logoColor=white" /> </div>
-Security Tools
-<div> <img src="https://img.shields.io/badge/-Metasploit-0078D4?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-Aircrack--ng-FF6600?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-John_the_Ripper-5A9F4E?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Hydra-3C3C3C?&style=for-the-badge&logoColor=white" /> </div>
-
-## Certifications
-<div>
+I’m learning how systems break, how attackers think, and how to build software that is harder to abuse.
 
 </div>
 
-## Projects
+---
+
+## About
+
+I’m a cybersecurity student with a strong interest in ethical hacking, secure development, networking, and automation. My focus is on building practical skills in controlled lab environments, understanding real-world security risks, and improving the way systems are designed, tested, and defended.
+
+This profile is intentionally privacy-conscious. I keep personal identifiers, location, school details, and direct contact information off my public README.
+
+---
+
+## Current Focus
+
+- Web application security, authentication, authorization, and secure CRUD workflows
+- Network analysis, reconnaissance, packet inspection, and protocol fundamentals
+- Security automation with scripting and repeatable workflows
+- Ethical hacking practice in legal lab environments
+- Building clean, documented projects that show practical security thinking
+
+---
+
+## Skills & Projects
+
+| Area | What I’m Practicing | Related Work |
+| --- | --- | --- |
+| Web Application Security | Authentication, RBAC, audit logging, secure data handling | [Collab Force](https://github.com/s4lam/collab-force-app) |
+| Secure Full-Stack Development | Next.js, TypeScript, PostgreSQL, Prisma, Docker-based local development | [Collab Force](https://github.com/s4lam/collab-force-app) |
+| Security Tooling | Scanning, packet analysis, interception, enumeration, and lab workflows | Coursework / home lab |
+| Automation & Scripting | Python, Bash, PowerShell, and repeatable command-line workflows | Scripts and experiments |
+| AI-Assisted Tooling | Local CLI workflows, automation, rendering pipelines, and developer tooling | [AI workflow plugin](https://github.com/s4lam/claude-resolve) |
+| Frontend & Static Sites | Lightweight HTML presentations and GitHub Pages-style delivery | [Static presentation project](https://github.com/s4lam/brancusi-gallery-presentation) |
+
+---
+
+## Toolbox
+
+### Operating Systems
+<div>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+### Networking & Web Security
+<div>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Netcat-3C3C3C?style=for-the-badge&logoColor=white" alt="Netcat" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+</div>
+
+### Programming & Scripting
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</div>
+
+### Frameworks, Databases & Dev Tools
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+### Security Tools
+<div>
+  <img src="https://img.shields.io/badge/Metasploit-0078D4?style=for-the-badge&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-FF6600?style=for-the-badge&logoColor=white" alt="Aircrack-ng" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-5A9F4E?style=for-the-badge&logoColor=white" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/Hydra-3C3C3C?style=for-the-badge&logoColor=white" alt="Hydra" />
+</div>
+
+---
+
+## Featured Public Work
+
+### Collab Force
+A secure role-based web application prototype focused on authentication, admin/staff access control, audit logging, appointment workflows, and PostgreSQL-backed data handling.
+
+### AI Workflow Plugin
+A developer-tooling project exploring AI-assisted workflow automation, local CLI integrations, rendering pipelines, and cross-platform setup flows.
+
+### Static Presentation Project
+A lightweight browser-based presentation project with keyboard, mouse, touch navigation, and GitHub Pages-style deployment.
+
+---
+
+## Learning Path
+
+I’m currently strengthening my foundations across:
+
+- Ethical hacking methodology
+- Web application vulnerabilities and defensive design
+- Linux and Windows security fundamentals
+- Networking, scanning, enumeration, and traffic analysis
+- Secure coding habits and clean project documentation
+
+Certifications are not listed publicly yet, so this section will stay minimal until I have something accurate to add.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=s4lam&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4lam&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</div>
+
+---
+
+<div align="center">
+
+**For ethical, legal, and educational security research only.**
+
+</div>
